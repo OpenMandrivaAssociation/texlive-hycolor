@@ -1,6 +1,6 @@
 Name:		texlive-hycolor
 Version:	53584
-Release:	1
+Release:	2
 Summary:	Implements colour for packages hyperref and bookmark
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hycolor
