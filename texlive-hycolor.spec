@@ -3,7 +3,7 @@ Version:	53584
 Release:	2
 Summary:	Implements colour for packages hyperref and bookmark
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hycolor
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hycolor
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hycolor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hycolor.doc.r%{version}.tar.xz
